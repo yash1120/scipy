@@ -68,13 +68,13 @@ guide <http://scipy.github.io/devdocs/dev/hacking.html>`__.
 
 Writing code isn’t the only way to contribute to SciPy. You can also:
 
-- review pull requests
-- triage issues
-- develop tutorials, presentations, and other educational materials
-- maintain and improve `our website <https://github.com/scipy/scipy.org>`__
-- develop graphic design for our brand assets and promotional materials
-- help with outreach and onboard new contributors
-- write grant proposals and help with other fundraising efforts
+- Review pull requests
+- Triage issues
+- Develop tutorials, presentations, and other educational materials
+- Maintain and improve `our website <https://github.com/scipy/scipy.org>`__
+- Develop graphic design for our brand assets and promotional materials
+- Help with outreach and onboard new contributors
+- Write grant proposals and help with other fundraising efforts
 
 If you’re unsure where to start or how your skills fit in, reach out! You can
 ask on the mailing list or here, on GitHub, by leaving a
